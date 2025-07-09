@@ -25,7 +25,7 @@ A real-time, voice-reactive orb that visually responds to user voice input. This
 Clone the repository:
 
 ```bash
-git clone https://github.com/apatterson32/orbed.git
+git clone https://github.com/Apatterson32/orbed.git
 cd orbed
 ```
 
